@@ -1,4 +1,4 @@
-package com.example.myfruitapp.ui.slideshow;
+package com.example.myfruitapp.ui.account;
 
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;

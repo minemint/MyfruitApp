@@ -1,16 +1,15 @@
-package com.example.myfruitapp.ui.gallery;
+package com.example.myfruitapp.ui.payment;
 
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;
 import androidx.lifecycle.ViewModel;
 
-public class GalleryViewModel extends ViewModel {
-
+public class PaymentViewModel  extends ViewModel{
     private final MutableLiveData<String> mText;
 
-    public GalleryViewModel() {
+    public PaymentViewModel() {
         mText = new MutableLiveData<>();
-        mText.setValue("This is gallery fragment");
+        mText.setValue("This is payment fragment");
     }
 
     public LiveData<String> getText() {

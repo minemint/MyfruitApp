@@ -1,4 +1,4 @@
-package com.example.myfruitapp.ui.slideshow;
+package com.example.myfruitapp.ui.account;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
